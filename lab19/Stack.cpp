@@ -27,6 +27,7 @@ void Stack<Type>::push(Type& newElement)
 	for (int i = 0; i < size; i++) {
 		temp[i] = root[i];
 	}
+	delete[] root;
 	temp[size++] = newElement;
 	root = temp;
 	temp = NULL;
@@ -64,5 +65,13 @@ template<class Type>
 int Stack<Type>::get_size()
 {
 	return size;
+}
+template<class Type>
+Type Stack<Type>::top()
+{
+	if (size != 0)
+		return root[size - 1];
+	else
+		cout << "\nСтек пуст!" << endl;
 }
 #endif

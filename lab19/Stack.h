@@ -13,13 +13,7 @@ public:
 	~Stack();	
 	void push(Type& newElement);	
 	void pop();	
-	Type top()
-	{
-		if (size != 0)
-			return root[size-1];
-		else
-			cout << "\nСтек пуст!"<< endl;
-	}
+	Type top();	
 	bool empty();	
 	void getStack();	
 	int get_size();	

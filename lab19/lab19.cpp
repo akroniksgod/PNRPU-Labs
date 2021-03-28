@@ -1,19 +1,14 @@
 ﻿#include <iostream>
 #include "Stack.h"
 using namespace std;
+int SafeInput(bool strict);
 int main()
 {
     srand(time(0));
     setlocale(LC_ALL, "ru");
     int size;
     cout << "Введите размер стека ";
-    cin >> size;
-    if (size < 1) {
-        while (size < 1) {
-            cout << "Введите размер стека корректно!";
-            cin >> size;
-        }
-    }
+    size = SafeInput(true);
     int vvod=5;    
     while (vvod != 0) {
         cout << "\n\nКакой стек? " << endl
@@ -35,9 +30,9 @@ int main()
             first.push(element);
             cout << "\ntop()=" << first.top() << endl;
             first.getStack();
-            //int length = first.get_size();
-            //for (int i=0; i< length; i++)
-            first.pop();
+            int length = first.get_size();
+            for (int i=0; i< length; i++)            
+            first.pop();            
             first.getStack();
             first.empty() ? cout << "\nTHE STACK IS EMPTY" : cout << "\nTHE STACK IS NOT EMPTY";
         }
@@ -100,4 +95,14 @@ int main()
         }
     }
     return 0;
+}
+int SafeInput(bool strict) {
+    int result;
+    while (!(cin >> result) || (cin.peek() != '\n') || (strict && result <= 0)) {
+        cin.clear();
+        while (cin.get() != '\n');
+        cout << "Введите корректное число!" << endl;
+    }
+    cin.get();
+    return result;
 }
