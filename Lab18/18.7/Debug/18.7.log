@@ -1,0 +1,3 @@
+﻿  18.7.cpp
+D:\Documents\Project1\18.7\Vector.cpp(50): warning C4715: Vector<Time>::operator[]: значение возвращается не при всех путях выполнения
+  18.7.vcxproj -> D:\Documents\Project1\Debug\18.7.exe
