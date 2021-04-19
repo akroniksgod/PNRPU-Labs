@@ -1,0 +1,14 @@
+﻿  18.11.cpp
+D:\Documents\Project1\18.11\18.11.cpp(107,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Documents\Project1\18.11\Vector5.h(16,26): warning C4244: =: преобразование "double" в "Type", возможна потеря данных
+          with
+          [
+              Type=int
+          ]
+D:\Documents\Project1\18.11\Vector5.h(12): message : во время компиляции функции-члена класс шаблон "Vector5<int>::Vector5(int)"
+D:\Documents\Project1\18.11\18.11.cpp(92): message : выполняется компиляция ссылки на экземпляр шаблон функции "Vector5<int>::Vector5(int)"
+D:\Documents\Project1\18.11\18.11.cpp(92): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Vector5<int>"
+D:\Documents\Project1\18.11\18.11.cpp(167,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Documents\Project1\18.11\18.11.cpp(18): message : выполняется компиляция ссылки на экземпляр шаблон функции "void PrintDeque<int>(std::deque<int,std::allocator<int>>)"
+D:\Documents\Project1\18.11\Vector.cpp(50): warning C4715: Vector<int>::operator[]: значение возвращается не при всех путях выполнения
+  18.11.vcxproj -> D:\Documents\Project1\Debug\18.11.exe
