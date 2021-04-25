@@ -1,0 +1,8 @@
+﻿  18.13.cpp
+D:\Documents\Project1\18.13\18.13.cpp(82,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Documents\Project1\18.13\18.13.cpp(127,9): warning C4101: tmp: неиспользованная локальная переменная
+D:\Documents\Project1\18.13\18.13.cpp(137,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Documents\Project1\18.13\18.13.cpp(147,9): warning C4101: tmp: неиспользованная локальная переменная
+D:\Documents\Project1\18.13\18.13.cpp(157,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Documents\Project1\18.13\18.13.cpp(186,9): warning C4101: tmp: неиспользованная локальная переменная
+  18.13.vcxproj -> D:\Documents\Project1\Debug\18.13.exe
