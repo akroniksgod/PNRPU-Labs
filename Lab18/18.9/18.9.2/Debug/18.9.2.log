@@ -1,6 +1,0 @@
-﻿  18.9.2.cpp
-D:\Documents\Project1\18.9.2\18.9.2.cpp(6,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  error.cpp
-  Vector.cpp
-  Создание кода...
-  18.9.2.vcxproj -> D:\Documents\Project1\Debug\18.9.2.exe

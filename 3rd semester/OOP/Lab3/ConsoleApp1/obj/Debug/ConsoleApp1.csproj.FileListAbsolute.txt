@@ -1,0 +1,21 @@
+D:\Documents\C#\Lab3\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Documents\C#\Lab3\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Documents\C#\Lab3\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Documents\C#\Lab3\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Documents\C#\Lab3\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Documents\C#\Lab3\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Documents\C#\Lab3\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\ghone\Desktop\Лаба3 (2)\Lab3\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ghone\Desktop\Лаба3 (2)\Lab3\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\ghone\Desktop\Лаба3 (2)\Lab3\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ghone\Desktop\Лаба3 (2)\Lab3\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\ghone\Desktop\Лаба3 (2)\Lab3\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\ghone\Desktop\Лаба3 (2)\Lab3\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\ghone\Desktop\Лаба3 (2)\Lab3\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\ALEX\Desktop\Infa\Лаба3\Lab3\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ALEX\Desktop\Infa\Лаба3\Lab3\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\ALEX\Desktop\Infa\Лаба3\Lab3\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ALEX\Desktop\Infa\Лаба3\Lab3\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\ALEX\Desktop\Infa\Лаба3\Lab3\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\ALEX\Desktop\Infa\Лаба3\Lab3\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\ALEX\Desktop\Infa\Лаба3\Lab3\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
