@@ -12,7 +12,36 @@ namespace ConsoleApp1
         static double F(double x)
         {
             return(Math.Exp(2 * x));
-        }        
+        }
+        static void CountSN(ref double sn, double x)
+        {
+            sn = 1.0;
+            double chislitel = 1;
+            int fact = 1;
+            for (int n = 1; n <= 20; n++)
+            {
+                fact *= n;
+                chislitel *= 2 * x;
+                sn += chislitel / fact;
+            }
+        }
+
+        static void CountSE(ref double se, double x)
+        {
+            se = 1;
+            int fact = 1;
+            double chislitel = 1, f = 0, prevF = 1;
+            for (int i = 1; Math.Abs(prevF - f) > EPS; i++)
+            {
+                prevF = f;
+
+                fact *= i;
+                chislitel *= 2 * x;
+                f = chislitel / fact;
+
+                se += f;
+            }
+        }
         static void Main(string[] args)
         {
             Console.WriteLine("y = e^(2*x)\n");
@@ -20,30 +49,14 @@ namespace ConsoleApp1
             double k = (b - a) / 10;
 
             int count = 0;
-            for (double x = a; x <= b; x += k, count++)
+            for (double x = a; x < b; x += k, count++)
             {
-                Console.WriteLine($"{count}\nx = {x}");
-                double s = 1.0;
-                for (int n = 1; n <= 20; n++)
-                {
-                    if (n == 1)
-                        s += Math.Pow(x * 2, n);
-                    else
-                        s += Math.Pow(x * 2, n) / (n * (n - 1));
-                }
-                Console.WriteLine($"SN = {s}");
+                double sn = 0;
+                CountSN(ref sn, x);
 
-                double se = 1, f = 0, prevF = 1;
-                for (int i = 1; Math.Abs(prevF - f) > EPS; i++)
-                {
-                    prevF = f;
-                    if (i == 1)
-                        f = Math.Pow(x * 2, i);
-                    else
-                        f = Math.Pow(x * 2, i) / (i * (i - 1));
-                    se += f;
-                }
-                Console.WriteLine($"SE = {se}\nY = {F(x)}\n");
+                double se = 0;
+                CountSE(ref se, x);
+                Console.WriteLine($"{count}) \tx = {x:0.0000}; \tSN = {sn:0.0000}; \tSE = {se: 0.0000}; \tY = {F(x):0.0000}\n");
             }
         }
     }
