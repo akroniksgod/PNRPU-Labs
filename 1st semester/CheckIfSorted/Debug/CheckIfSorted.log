@@ -1,0 +1,3 @@
+﻿  CheckIfSorted.cpp
+F:\C++\FirstSemester\CheckIfSorted\CheckIfSorted.cpp(6,12): warning C4101: i: неиспользованная локальная переменная
+  CheckIfSorted.vcxproj -> F:\C++\FirstSemester\Debug\CheckIfSorted.exe
