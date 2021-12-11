@@ -1,0 +1,5 @@
+﻿  ForMarkovAlgo.cpp
+F:\C++\FirstSemester\ForMarkovAlgo\ForMarkovAlgo.cpp(15,27): warning C4129: z: неизвестная escape-последовательность
+F:\C++\FirstSemester\ForMarkovAlgo\ForMarkovAlgo.cpp(22,21): warning C4018: <: несоответствие типов со знаком и без знака
+F:\C++\FirstSemester\ForMarkovAlgo\ForMarkovAlgo.cpp(29,20): warning C4018: <: несоответствие типов со знаком и без знака
+  ForMarkovAlgo.vcxproj -> F:\C++\FirstSemester\Debug\ForMarkovAlgo.exe
