@@ -1,0 +1,13 @@
+F:\C#\Lab6\Lab6\bin\Debug\Lab6.exe.config
+F:\C#\Lab6\Lab6\bin\Debug\Lab6.exe
+F:\C#\Lab6\Lab6\bin\Debug\Lab6.pdb
+F:\C#\Lab6\Lab6\obj\Debug\Lab6.csprojAssemblyReference.cache
+F:\C#\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+F:\C#\Lab6\Lab6\obj\Debug\Lab6.exe
+F:\C#\Lab6\Lab6\obj\Debug\Lab6.pdb
+C:\Users\ALEX\Desktop\Infa\Лаба6\Lab6\Lab6\bin\Debug\Lab6.exe.config
+C:\Users\ALEX\Desktop\Infa\Лаба6\Lab6\Lab6\bin\Debug\Lab6.exe
+C:\Users\ALEX\Desktop\Infa\Лаба6\Lab6\Lab6\bin\Debug\Lab6.pdb
+C:\Users\ALEX\Desktop\Infa\Лаба6\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\ALEX\Desktop\Infa\Лаба6\Lab6\Lab6\obj\Debug\Lab6.exe
+C:\Users\ALEX\Desktop\Infa\Лаба6\Lab6\Lab6\obj\Debug\Lab6.pdb

@@ -1,0 +1,14 @@
+F:\C#\Lab6\SecondEx\bin\Debug\SecondEx.exe.config
+F:\C#\Lab6\SecondEx\bin\Debug\SecondEx.exe
+F:\C#\Lab6\SecondEx\bin\Debug\SecondEx.pdb
+F:\C#\Lab6\SecondEx\obj\Debug\SecondEx.csproj.CoreCompileInputs.cache
+F:\C#\Lab6\SecondEx\obj\Debug\SecondEx.exe
+F:\C#\Lab6\SecondEx\obj\Debug\SecondEx.pdb
+F:\C#\Lab6\SecondEx\obj\Debug\SecondEx.csprojAssemblyReference.cache
+C:\Users\ALEX\Desktop\Infa\Лаба6\Lab6\SecondEx\bin\Debug\SecondEx.exe.config
+C:\Users\ALEX\Desktop\Infa\Лаба6\Lab6\SecondEx\bin\Debug\SecondEx.exe
+C:\Users\ALEX\Desktop\Infa\Лаба6\Lab6\SecondEx\bin\Debug\SecondEx.pdb
+C:\Users\ALEX\Desktop\Infa\Лаба6\Lab6\SecondEx\obj\Debug\SecondEx.csproj.CoreCompileInputs.cache
+C:\Users\ALEX\Desktop\Infa\Лаба6\Lab6\SecondEx\obj\Debug\SecondEx.exe
+C:\Users\ALEX\Desktop\Infa\Лаба6\Lab6\SecondEx\obj\Debug\SecondEx.pdb
+C:\Users\ALEX\Desktop\Infa\Лаба6\Lab6\SecondEx\obj\Debug\SecondEx.csproj.AssemblyReference.cache
