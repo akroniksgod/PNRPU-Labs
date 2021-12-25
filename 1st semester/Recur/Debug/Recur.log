@@ -1,0 +1,4 @@
+﻿  Recur.cpp
+F:\C++\FirstSemester\Recur\Recur.cpp(21,12): warning C4101: y: неиспользованная локальная переменная
+F:\C++\FirstSemester\Recur\Recur.cpp(31): warning C4715: recur: значение возвращается не при всех путях выполнения
+  Recur.vcxproj -> F:\C++\FirstSemester\Debug\Recur.exe
