@@ -1,0 +1,61 @@
+<body>
+<b><big><big>Через mysqli</big></big></b>
+<form action="http://kdenisb.ru:20080/web/Tedeev/3lab/req.php" method="get">
+<br><big>1. Название группы:
+<select group name="group_name">
+<option></option>
+<option>IVT-20-1B</option>
+<option>IVT-20-2B</option>
+<option>IVT-21-1B</option>
+<option>IVT-20-1B</option>
+</select>
+
+<button>Показать</button>
+</form>
+
+<form action="http://kdenisb.ru:20080/web/Tedeev/3lab/req2.php" method="get">
+<br>2. Выбрать дату, после которой отображаются люди, сдавшие экзамен<br>
+
+<input type = "date" name="date_of_exam">
+<input type = "submit" value = "Показать">
+
+</form>
+
+<form action="http://kdenisb.ru:20080/web/Tedeev/3lab/req3.php" method="get">
+3. Выдать информацию по студенту по номеру зачётки<br>
+
+<input type = "number" name="code_of_report_card">
+<input type = "submit" value = "Показать">
+
+</form>
+<br><b><big><big>Через pdo</big></big></b>
+<form action="http://kdenisb.ru:20080/web/Tedeev/3lab/pdo_req.php" method="get">
+<br>1. Название группы:
+<select group name="group_name">
+<option></option>
+<option>IVT-20-1B</option>
+<option>IVT-20-2B</option>
+<option>IVT-21-1B</option>
+<option>IVT-20-1B</option>
+</select>
+<button>Показать</button>
+</form>
+
+<form action="http://kdenisb.ru:20080/web/Tedeev/3lab/pdo_req2.php" method="get">
+2. Выбрать дату, после которой отображаются люди, сдавшие экзамен<br>
+
+<input type = "date" name="date_of_exam">
+<input type = "submit" value = "Показать">
+
+</form>
+
+<form action="http://kdenisb.ru:20080/web/Tedeev/3lab/pdo_req3.php" method="get">
+3. Выдать информацию по студенту по номеру зачётки<br>
+
+<input type = "number" name="code_of_report_card">
+<input type = "submit" value = "Показать">
+
+</form>
+
+</big>
+</body>
