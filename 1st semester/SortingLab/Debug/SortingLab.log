@@ -1,0 +1,3 @@
+﻿  SortingLab.cpp
+F:\C++\FirstSemester\SortingLab\SortingLab.cpp(15,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  SortingLab.vcxproj -> F:\C++\FirstSemester\Debug\SortingLab.exe
