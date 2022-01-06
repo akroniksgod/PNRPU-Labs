@@ -1,0 +1,7 @@
+﻿  DiscreteMaths.cpp
+C:\Users\ALEX\Desktop\Дискр Мат\Лаба1\DiscreteMaths\DiscreteMaths\DiscreteMaths.cpp(83,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ALEX\Desktop\Дискр Мат\Лаба1\DiscreteMaths\DiscreteMaths\DiscreteMaths.cpp(297,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\ALEX\Desktop\Дискр Мат\Лаба1\DiscreteMaths\DiscreteMaths\DiscreteMaths.cpp(393,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ALEX\Desktop\Дискр Мат\Лаба1\DiscreteMaths\DiscreteMaths\DiscreteMaths.cpp(503,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ALEX\Desktop\Дискр Мат\Лаба1\DiscreteMaths\DiscreteMaths\DiscreteMaths.cpp(539,26): warning C4018: <: несоответствие типов со знаком и без знака
+  DiscreteMaths.vcxproj -> C:\Users\ALEX\Desktop\Дискр Мат\Лаба1\DiscreteMaths\Debug\DiscreteMaths.exe
