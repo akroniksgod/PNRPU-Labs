@@ -1,0 +1,7 @@
+C:\Users\ALEX\Desktop\Дискр Мат\Лаба2\DiscreteMaths2\DiscreteMaths2\bin\Release\DiscreteMaths2.exe.config
+C:\Users\ALEX\Desktop\Дискр Мат\Лаба2\DiscreteMaths2\DiscreteMaths2\bin\Release\DiscreteMaths2.exe
+C:\Users\ALEX\Desktop\Дискр Мат\Лаба2\DiscreteMaths2\DiscreteMaths2\bin\Release\DiscreteMaths2.pdb
+C:\Users\ALEX\Desktop\Дискр Мат\Лаба2\DiscreteMaths2\DiscreteMaths2\obj\Release\DiscreteMaths2.csprojAssemblyReference.cache
+C:\Users\ALEX\Desktop\Дискр Мат\Лаба2\DiscreteMaths2\DiscreteMaths2\obj\Release\DiscreteMaths2.csproj.CoreCompileInputs.cache
+C:\Users\ALEX\Desktop\Дискр Мат\Лаба2\DiscreteMaths2\DiscreteMaths2\obj\Release\DiscreteMaths2.exe
+C:\Users\ALEX\Desktop\Дискр Мат\Лаба2\DiscreteMaths2\DiscreteMaths2\obj\Release\DiscreteMaths2.pdb
