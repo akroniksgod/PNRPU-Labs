@@ -1,0 +1,14 @@
+F:\C#\Lab9\Part2\bin\Debug\Part2.exe.config
+F:\C#\Lab9\Part2\bin\Debug\Part2.exe
+F:\C#\Lab9\Part2\bin\Debug\Part2.pdb
+F:\C#\Lab9\Part2\obj\Debug\Part2.csprojAssemblyReference.cache
+F:\C#\Lab9\Part2\obj\Debug\Part2.csproj.CoreCompileInputs.cache
+F:\C#\Lab9\Part2\obj\Debug\Part2.exe
+F:\C#\Lab9\Part2\obj\Debug\Part2.pdb
+C:\Users\ALEX\Desktop\Infa\Лаба9\Lab9\Part2\bin\Debug\Part2.exe.config
+C:\Users\ALEX\Desktop\Infa\Лаба9\Lab9\Part2\bin\Debug\Part2.exe
+C:\Users\ALEX\Desktop\Infa\Лаба9\Lab9\Part2\bin\Debug\Part2.pdb
+C:\Users\ALEX\Desktop\Infa\Лаба9\Lab9\Part2\obj\Debug\Part2.csprojAssemblyReference.cache
+C:\Users\ALEX\Desktop\Infa\Лаба9\Lab9\Part2\obj\Debug\Part2.csproj.CoreCompileInputs.cache
+C:\Users\ALEX\Desktop\Infa\Лаба9\Lab9\Part2\obj\Debug\Part2.exe
+C:\Users\ALEX\Desktop\Infa\Лаба9\Lab9\Part2\obj\Debug\Part2.pdb
