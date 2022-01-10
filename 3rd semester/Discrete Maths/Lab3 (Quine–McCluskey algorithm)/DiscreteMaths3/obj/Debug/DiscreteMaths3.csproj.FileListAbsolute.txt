@@ -1,0 +1,7 @@
+F:\C#\DiscreteMaths3\DiscreteMaths3\bin\Debug\DiscreteMaths3.exe.config
+F:\C#\DiscreteMaths3\DiscreteMaths3\bin\Debug\DiscreteMaths3.exe
+F:\C#\DiscreteMaths3\DiscreteMaths3\bin\Debug\DiscreteMaths3.pdb
+F:\C#\DiscreteMaths3\DiscreteMaths3\obj\Debug\DiscreteMaths3.csproj.CoreCompileInputs.cache
+F:\C#\DiscreteMaths3\DiscreteMaths3\obj\Debug\DiscreteMaths3.exe
+F:\C#\DiscreteMaths3\DiscreteMaths3\obj\Debug\DiscreteMaths3.pdb
+F:\C#\DiscreteMaths3\DiscreteMaths3\obj\Debug\DiscreteMaths3.csproj.AssemblyReference.cache
