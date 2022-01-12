@@ -1,0 +1,14 @@
+F:\C#\Lab10\Part1\bin\Debug\Part1.exe.config
+F:\C#\Lab10\Part1\bin\Debug\Part1.exe
+F:\C#\Lab10\Part1\bin\Debug\Part1.pdb
+F:\C#\Lab10\Part1\obj\Debug\Part1.csprojAssemblyReference.cache
+F:\C#\Lab10\Part1\obj\Debug\Part1.csproj.CoreCompileInputs.cache
+F:\C#\Lab10\Part1\obj\Debug\Part1.exe
+F:\C#\Lab10\Part1\obj\Debug\Part1.pdb
+C:\Users\ALEX\Desktop\Infa\Лаба10\Lab10\Part1\bin\Debug\Part1.exe.config
+C:\Users\ALEX\Desktop\Infa\Лаба10\Lab10\Part1\bin\Debug\Part1.exe
+C:\Users\ALEX\Desktop\Infa\Лаба10\Lab10\Part1\bin\Debug\Part1.pdb
+C:\Users\ALEX\Desktop\Infa\Лаба10\Lab10\Part1\obj\Debug\Part1.csprojAssemblyReference.cache
+C:\Users\ALEX\Desktop\Infa\Лаба10\Lab10\Part1\obj\Debug\Part1.csproj.CoreCompileInputs.cache
+C:\Users\ALEX\Desktop\Infa\Лаба10\Lab10\Part1\obj\Debug\Part1.exe
+C:\Users\ALEX\Desktop\Infa\Лаба10\Lab10\Part1\obj\Debug\Part1.pdb
