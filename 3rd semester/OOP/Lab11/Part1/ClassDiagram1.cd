@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Part1.CompareByAge" BaseTypeListCollapsed="true">
+    <Position X="10.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>CompareByAge.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Part1.Id">
+    <Position X="10.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Id.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Part1.PartTimeStudent">
+    <Position X="0.5" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAQABAAAAAAEgAAAAAAAAAAAEAAAAAAAAAEAAjA=</HashCode>
+      <FileName>PartTimeStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Part1.Person">
+    <Position X="8" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAEMAQABAAAABSEgEBAAAQABQAAAAgAAAAAAAEEEjA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Part1.Program" Collapsed="true">
+    <Position X="12.5" Y="1" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAEAIAAgAAACMAAAAAAAAAiABKAAAQAAAAABAAAAAQ=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Part1.Schoolchild">
+    <Position X="5.5" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAYABAAAAAAEgAAAAAIAAAAAAAAAAAAIAAEAAjA=</HashCode>
+      <FileName>Schoolchild.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Part1.Student">
+    <Position X="3" Y="1" Width="2.25" />
+    <InheritanceLine Type="Part1.Schoolchild" FixedToPoint="true">
+      <Path>
+        <Point X="5.5" Y="3.062" />
+        <Point X="5.25" Y="3.062" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAQgBAAAAAAEgAAAAgAAAAAAAAAAABAAAAEAAjE=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Part1.IExecutable">
+    <Position X="10.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>IExecutable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
