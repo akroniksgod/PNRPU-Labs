@@ -1,0 +1,10 @@
+F:\C#\Lab12Rem\Lab12\Lab12\bin\Debug\Lab12.exe.config
+F:\C#\Lab12Rem\Lab12\Lab12\bin\Debug\Lab12.exe
+F:\C#\Lab12Rem\Lab12\Lab12\bin\Debug\Lab12.pdb
+F:\C#\Lab12Rem\Lab12\Lab12\bin\Debug\PersonLibrary.dll
+F:\C#\Lab12Rem\Lab12\Lab12\bin\Debug\PersonLibrary.pdb
+F:\C#\Lab12Rem\Lab12\Lab12\obj\Debug\Lab12.csproj.AssemblyReference.cache
+F:\C#\Lab12Rem\Lab12\Lab12\obj\Debug\Lab12.csproj.CoreCompileInputs.cache
+F:\C#\Lab12Rem\Lab12\Lab12\obj\Debug\Lab12.csproj.CopyComplete
+F:\C#\Lab12Rem\Lab12\Lab12\obj\Debug\Lab12.exe
+F:\C#\Lab12Rem\Lab12\Lab12\obj\Debug\Lab12.pdb
