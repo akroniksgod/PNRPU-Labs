@@ -41,7 +41,6 @@ namespace Lab12
             {
                 T val = (T)((IExecutable)ReturnPerson());
                 this.Add(val);
-                //storage.Add(val);//default(T));
             }
         }
         public BinaryTree(BinaryTree<T> collectionToCopy)
@@ -58,27 +57,23 @@ namespace Lab12
         private object ReturnPerson()
         {
             int choice = rnd.Next(1, 5);
-            if (choice == 1)
+            switch (choice)
             {
-                Person p = new Person();
-                return p.RandomCreate();
-            }
-            else if (choice == 2)
-            {
-                Schoolchild s = new Schoolchild();
-                return s.RandomCreate();
-            }
-            else if (choice == 3)
-            {
-                Student s = new Student();
-                return s.RandomCreate();
-            }
-            else if (choice == 4)
-            {
-                PartTimeStudent s = new PartTimeStudent();
-                return s.RandomCreate();
-            }
-            return null;
+                case 1:
+                    Person p = new Person();
+                    return p.RandomCreate();
+                case 2:
+                    Schoolchild s = new Schoolchild();
+                    return s.RandomCreate();
+                case 3:
+                    Student st = new Student();
+                    return st.RandomCreate();
+                case 4:
+                    PartTimeStudent prS = new PartTimeStudent();
+                    return prS.RandomCreate();
+                default:
+                    return null;
+            }            
         }
         private int CountNodes(Node<T> current)
         {
@@ -214,8 +209,7 @@ namespace Lab12
         } 
         private Node<T> RemoveAllElements(BinaryTree<T> tree)
         {
-            List<T> collectionForRemoving = new List<T>(storage);
-            int length = tree.Count;
+            List<T> collectionForRemoving = new List<T>(storage);            
             foreach (var item in collectionForRemoving)
             {
                 tree.Remove(item);
