@@ -1,0 +1,1 @@
+Delegate and events using my own collection
