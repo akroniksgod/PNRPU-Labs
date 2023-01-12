@@ -1,0 +1,12 @@
+F:\C#\Lab12\PersonLibrary\bin\Debug\PersonLibrary.dll
+F:\C#\Lab12\PersonLibrary\bin\Debug\PersonLibrary.pdb
+F:\C#\Lab12\PersonLibrary\obj\Debug\PersonLibrary.csproj.AssemblyReference.cache
+F:\C#\Lab12\PersonLibrary\obj\Debug\PersonLibrary.csproj.CoreCompileInputs.cache
+F:\C#\Lab12\PersonLibrary\obj\Debug\PersonLibrary.dll
+F:\C#\Lab12\PersonLibrary\obj\Debug\PersonLibrary.pdb
+F:\C#\Lab14\PersonLibrary\bin\Debug\PersonLibrary.dll
+F:\C#\Lab14\PersonLibrary\bin\Debug\PersonLibrary.pdb
+F:\C#\Lab14\PersonLibrary\obj\Debug\PersonLibrary.csproj.AssemblyReference.cache
+F:\C#\Lab14\PersonLibrary\obj\Debug\PersonLibrary.csproj.CoreCompileInputs.cache
+F:\C#\Lab14\PersonLibrary\obj\Debug\PersonLibrary.dll
+F:\C#\Lab14\PersonLibrary\obj\Debug\PersonLibrary.pdb

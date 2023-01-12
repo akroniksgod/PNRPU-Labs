@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab14.City">
+    <Position X="3.5" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAIEAAAAAAAAAAAAAAAABAAAAAAEAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>City.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab14.EducationaLInstitution">
+    <Position X="5.75" Y="1.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAIEAAAAAAAAAAAAAAAABAAAAAAEAAAAAAAAAAACAAA=</HashCode>
+      <FileName>EducationaLInstitution.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab14.Program">
+    <Position X="0.5" Y="1.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AFAAAAAAAAAAAAAAAEACAAAAAIJAEAAAAAAABAAAAAQ=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
