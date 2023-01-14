@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="AdditionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChangingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReadFIleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RemovingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SaveToFileForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

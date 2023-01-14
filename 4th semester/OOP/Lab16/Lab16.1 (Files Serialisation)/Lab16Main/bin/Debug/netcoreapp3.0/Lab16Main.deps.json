@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Lab16Main/1.0.0": {
+        "dependencies": {
+          "Lab12": "1.0.0",
+          "PersonLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Lab16Main.dll": {}
+        }
+      },
+      "Lab12/1.0.0": {
+        "dependencies": {
+          "PersonLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Lab12.exe": {}
+        }
+      },
+      "PersonLibrary/1.0.0": {
+        "runtime": {
+          "PersonLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab16Main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lab12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PersonLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

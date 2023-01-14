@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>netcoreapp3.0</TargetFramework>
+		<UseWindowsForms>true</UseWindowsForms>
+		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+	</PropertyGroup>
+	<ItemGroup>
+	  <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.0.3" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Lab12\Lab12\Lab12.csproj">
+			<Project>{9f6dbd21-ebb5-4e0a-b3d6-5978e4af3db4}</Project>
+			<Name>Lab12</Name>
+		</ProjectReference>
+		<ProjectReference Include="..\PersonLibrary\PersonLibrary.csproj">
+			<Project>{1870c7c8-9fe2-4ed5-bcad-39d423b85079}</Project>
+			<Name>PersonLibrary</Name>
+		</ProjectReference>
+	</ItemGroup>
+</Project>
