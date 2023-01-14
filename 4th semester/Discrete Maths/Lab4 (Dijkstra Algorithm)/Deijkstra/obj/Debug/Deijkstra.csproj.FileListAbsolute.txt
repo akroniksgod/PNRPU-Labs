@@ -1,0 +1,7 @@
+F:\C#\DiscreteMaths4\Deijkstra\bin\Debug\Deijkstra.exe.config
+F:\C#\DiscreteMaths4\Deijkstra\bin\Debug\Deijkstra.exe
+F:\C#\DiscreteMaths4\Deijkstra\bin\Debug\Deijkstra.pdb
+F:\C#\DiscreteMaths4\Deijkstra\obj\Debug\Deijkstra.csproj.AssemblyReference.cache
+F:\C#\DiscreteMaths4\Deijkstra\obj\Debug\Deijkstra.csproj.CoreCompileInputs.cache
+F:\C#\DiscreteMaths4\Deijkstra\obj\Debug\Deijkstra.exe
+F:\C#\DiscreteMaths4\Deijkstra\obj\Debug\Deijkstra.pdb
